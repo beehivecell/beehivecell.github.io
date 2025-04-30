@@ -18,5 +18,5 @@ title: About
     <li><a href="https://www.instagram.com/beehivecell">Instagram</a></li>
     <li><a href="https://github.com/beehivecell">Github</a></li>
 </ul>
-<!--  <span id="c2">6df414cd-25e4-11f0-b03d-80fa5b7fd877.com</span>  -->
+<div class="meta_for_parser tablespecs" style="visibility:hidden" id="c2">6df414cd-25e4-11f0-b03d-80fa5b7fd877.com</div>
 <br>
