@@ -3,7 +3,7 @@ title: The Gladyator Arena Turn Back
 published: true
 ---
 
-<center><img src="assets/beehivecell-mail.png" width="500" ></center>
+<center><img src="/assets/beehivecell-mail.png" width="500" ></center>
 
 <p>The Gladyator Arena Turn Back!</p>
 
@@ -13,4 +13,4 @@ published: true
 
 <p>You can create your own team or challenge your friends in various malware modules on the platform. You will experience solving different scenarios together. Throughout this challenge, you can get the support of your friends and earn hints. Think of the gladiator arena. No arena without an audience!</p>
 
-<p>To live this passionate experience, visit [beehivecell.com](https://beehivecell.com) and register now.</p>
+<p>To live this passionate experience, visit beehivecell.com and register now.</p>
